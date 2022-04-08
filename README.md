@@ -1,6 +1,7 @@
 # Arduino Nano with DY soundboard Based Ghostbusters Proton Pack
 Arduino Code for a Ghostbusters Neutrino Wand and Proton Pack
-(Inspired from https://github.com/CountDeMonet/ArduinoProtonPack)
+
+(Design inspired from https://github.com/CountDeMonet/ArduinoProtonPack)
 
 First I'm French speaking and doing my best to put this in English here, so sorry if sometime my sentences look strange or there is big faulty things around...
 
