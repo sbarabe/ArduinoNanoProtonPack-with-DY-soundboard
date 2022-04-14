@@ -17,7 +17,7 @@ The models are based off the following things on thingiverse:
 Electronic parts required for this build and code :
 
 * 1x arduino nano. 
-* 1x DC-DC buck converter 5A to convert 6V NiMh to 4.5V. Would also work with 12V battery pack. 
+* 1x DC-DC buck converter 5A to convert 6V NiMh to 4.5V. Would also work with 12V battery pack:https://s.click.aliexpress.com/e/_9R0vlv
 * 1x DY-SV8F playback triggered sound board with enough flashes for all the tracks if well compressed in MP3. 
 * 1x Audio amp 
 * 2x smalls speakers 3W, 4Ohms
