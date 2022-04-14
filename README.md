@@ -16,27 +16,33 @@ The models are based off the following things on thingiverse:
 
 Electronic parts required for this build and code :
 
-* 1x arduino nano. 
-* 1x DC-DC buck converter 5A to convert 6V NiMh to 4.5V. Would also work with 12V battery pack:https://s.click.aliexpress.com/e/_9R0vlv
-* 1x DY-SV8F playback triggered sound board with enough flashes for all the tracks if well compressed in MP3. 
-* 1x Audio amp 
-* 2x smalls speakers 3W, 4Ohms
-* 1x MAX7219 shift register
-* 1x Yellow Bar Graph, 10 leds
-* 6x 7 WS2812 leds jewels for the cyclotron, vent and nose
-* 1x 8 WS2812 leds light stick for the powercell 
-* 5x Individual WS2812 for wand lights
-* 3x toggle switches
-* 2x push button
-* 1x tactile button
-* 1x rocker swith for power
-* 1x battery pack 6v 3000 mAh  
-* 1x NiMh charger module
-* 1x relay 5V to switch between charging and powering the pack
-* 1x mini USB female conector pcb to plug the pack for charging
-* Mosfet and transistor for the auto power OFF circuit
-* resistances and capcitors for circuits
-* 2 small pcb boards for wand electonics
-* 1 large pcb board forpack electronics
+* 1x arduino nano 5V, atemga 328P : https://s.click.aliexpress.com/e/_ABoigL
+* 1x DC-DC buck converter 5A to convert 6V NiMh to 4.5V. Would also work with 12V battery pack : https://s.click.aliexpress.com/e/_9R0vlv
+* 1x DY-SV8F playback triggered sound board with enough flashes for all the tracks if well compressed in MP3 :  : https://s.click.aliexpress.com/e/_9Ix2f1
+* 1x Audio amp 2x3W: https://s.click.aliexpress.com/e/_Afwd8X
+* 2x smalls speakers 3W 4Ohms : https://s.click.aliexpress.com/e/_9vz9ur
+* 1x MAX7219 shift register : https://s.click.aliexpress.com/e/_AlYLuJ
+* 1x Yellow Bar Graph, 10 leds : https://s.click.aliexpress.com/e/_9uJiD5
+* 6x 7 WS2812B leds jewels for the cyclotron, vent and nose : https://s.click.aliexpress.com/e/_9841JN
+* 1x 8 WS2812B leds light stick for the powercell : https://s.click.aliexpress.com/e/_ADHJfz
+* 5x Individual WS2812B for wand lights : https://s.click.aliexpress.com/e/_9f1dzp
+* 3x toggle switches : https://s.click.aliexpress.com/e/_9iykgj
+* 2x push button : https://s.click.aliexpress.com/e/_9HSwyb
+* 1x tactile button : https://s.click.aliexpress.com/e/_A4rCzd
+* 1x rocker swith for power : https://s.click.aliexpress.com/e/_9y4cvd
+* 1x battery pack 6v 3000 mAh  : https://s.click.aliexpress.com/e/_9Q6bsB
+* 1x NiMh charger module : https://s.click.aliexpress.com/e/_9HCKGT
+* 1x relay 5V to switch between charging and powering the pack : https://s.click.aliexpress.com/e/_ACdvqb
+* 1x mini USB female conector pcb to plug the pack for charging : https://s.click.aliexpress.com/e/_9gum55
+* 1x P channel Mosfet like the FQP50N06 TO220 for auto power off :  https://s.click.aliexpress.com/e/_9IXkZN
+* 1x 2N3904 N channel transistor for the auto power OFF circuit : https://s.click.aliexpress.com/e/_97Cq0F
+* 2x Zener diode 1N4728 for auto power off circuit : https://s.click.aliexpress.com/e/_A9cVST
+* Resistances and capcitors for circuit : https://s.click.aliexpress.com/e/_ApHJUJ
+* Small Ceramic capcitors for circuit : https://s.click.aliexpress.com/e/_AdiVYn
+* Electrolytic Capacitors for circuit : https://s.click.aliexpress.com/e/_9Hpgy3
+* 2 small 20x80mm pcb boards for wand electonics : https://s.click.aliexpress.com/e/_9HLL3d
+* 1 medium pcb board for pack electronics like this 5x9.5cm one : https://s.click.aliexpress.com/e/_9Hk8kF
+* 2 RJ45 adapter board to join wand swithes to pack : https://s.click.aliexpress.com/e/_9ia8hd
+* 1 short audio cable 3.5mm male jacks, 3 wires, to be cut in half to link DY-SV8F to PAM amp : https://s.click.aliexpress.com/e/_AYneqn
 
 This is a work in progress, I'll update this while I can.
