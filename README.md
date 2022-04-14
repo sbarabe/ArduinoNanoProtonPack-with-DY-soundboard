@@ -18,7 +18,7 @@ Electronic parts required for this build and code :
 
 * 1x arduino nano 5V, atemga 328P : https://s.click.aliexpress.com/e/_ABoigL
 * 1x DC-DC buck converter 5A to convert 6V NiMh to 4.5V. Would also work with 12V battery pack : https://s.click.aliexpress.com/e/_9R0vlv
-* 1x DY-SV8F playback triggered sound board with enough flashes for all the tracks if well compressed in MP3 :  : https://s.click.aliexpress.com/e/_9Ix2f1
+* 1x DY-SV8F playback triggered sound board with enough flashes for all the tracks if well compressed in MP3 : https://s.click.aliexpress.com/e/_9Ix2f1
 * 1x Audio amp 2x3W: https://s.click.aliexpress.com/e/_Afwd8X
 * 2x smalls speakers 3W 4Ohms : https://s.click.aliexpress.com/e/_9vz9ur
 * 1x MAX7219 shift register : https://s.click.aliexpress.com/e/_AlYLuJ
