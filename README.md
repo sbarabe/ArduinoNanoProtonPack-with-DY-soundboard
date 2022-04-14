@@ -43,6 +43,8 @@ Electronic parts required for this build and code :
 * 2 small 20x80mm pcb boards for wand electonics : https://s.click.aliexpress.com/e/_9HLL3d
 * 1 medium pcb board for pack electronics like this 5x9.5cm one : https://s.click.aliexpress.com/e/_9Hk8kF
 * 2 RJ45 adapter board to join wand swithes to pack : https://s.click.aliexpress.com/e/_9ia8hd
+* 2m of Ethernet Cable with plug (NOT crossover) : https://s.click.aliexpress.com/e/_9jk9Dt
+* 2m of shield 3 wires cable for pack towand shift register : https://s.click.aliexpress.com/e/_A1atPV 
 * 1 short audio cable 3.5mm male jacks, 3 wires, to be cut in half to link DY-SV8F to PAM amp : https://s.click.aliexpress.com/e/_AYneqn
 
 This is a work in progress, I'll update this while I can.
