@@ -15,6 +15,8 @@ The models are based off the following things on thingiverse:
 * Full scale proton wand the 83% one is based on: https://www.thingiverse.com/thing:2334883
 * And a clippard valve with text: https://www.thingiverse.com/thing:2286284
 
+PLEASE TAKE NOTES : I've provided Fritzing schematics for reference. Since I'm not an electronic designer, they migth be some error in components sizes, selections and locations. It's up to you to use those schematics as they are with or without corrections. I've build my prototype with those schematics, but it's not fully tested yet... Also, there is no circuit protection on those schematics, so it's something that can be improve there!
+
 If you're in no rush to make the electronics, you can buy from Aliexpress and wait to receive the parts while you're building the pack and wand frames...
 If you are in a rush, you can find all this on Amazon, Digikey, Mouser, Robotshop, etc.
 Electronic parts required for this build and code :
