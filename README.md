@@ -6,7 +6,7 @@ Arduino Code for a Ghostbusters Neutrino Wand and Proton Pack
 First I'm French speaking and doing my best to put this in English here, so sorry if sometime my sentences look strange or if there is big faulty things around this repository...
 
 I'm in the process of building 4 proton packs for my sons. Since I have multiple packs to made, I want to cut on prices and choose some most affordable components.  
-This design is greatly inspired form https://github.com/CountDeMonet/ArduinoProtonPack, but with cheaper audio board (DY-SV8F in my case) for sounds and shift register (MAX7219) for the BAR GRAPH. I also add 2 push buttons in the front wand adjuster to set volume. Those are the biggest changes made from the original design. I had to rewrite almost all the program because it took too much memory for a Arduino Nano (I did got warning from IDE after just making change to use DY board and MAX7219), and also because the DY-SV8F was sensible to multiple play calls and have some delay before a call end the actual state of the board causing some bugs in the sequences. 
+This design is greatly inspired form https://github.com/CountDeMonet/ArduinoProtonPack, but with cheaper audio board (DY-SV8F in my case) for sounds and shift register (MAX7219) for the BAR GRAPH. I have also added 2 push buttons in the front wand adjuster to set volume. Those are the biggest changes made from the original design. I had to rewrite almost all the program because it took too much memory for a Arduino Nano (I did got warning from IDE after just making change to use DY board and MAX7219), and also because the DY-SV8F was sensible to multiple play calls and have some delay before a call end the actual state of the board causing some bugs in the sequences. 
   
   
 3D MODELS :
