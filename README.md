@@ -11,7 +11,7 @@ This design is greatly inspired form https://github.com/CountDeMonet/ArduinoProt
   
 3D MODELS :
 
-3d models for pack and wand are inpired from the 83% are base on the original references, but I have remake almost all the files and optimised them for my CR10s pro V2 with a 310 by 310mm bed. I'll publish the files when they are ready. For now you can use any adapeted 3d printed refrence models from the original design by https://github.com/CountDeMonet/ArduinoProtonPack :
+3d models for pack and wand are inspired from the 83% are base on the original references, but I have remake almost all the files and optimised them for my CR10s pro V2 with a 310 by 310mm bed. I'll publish the files when they are ready. For now you can use any adapeted 3d printed refrence models from the original design by https://github.com/CountDeMonet/ArduinoProtonPack :
 The models are based off the following things on thingiverse: 
 * Main base model for the pack: https://www.thingiverse.com/thing:2479141
 * Base model for the proton wand: https://www.thingiverse.com/thing:1128019
