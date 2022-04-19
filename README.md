@@ -38,7 +38,9 @@ PLEASE TAKE NOTES : I've provided Fritzing schematics for reference. Since I'm n
   
   Pack powering :
   
-  All electronics on this schematics can be powered by 3.5 to 5V, except the Arduino Nano who should be power by 6V to 12V. So power from the battery pack could be between 6V to 12V. Arduino Nano will be power directly from the battery pack, but the rest should be power by a step down DC-DC buck converter ajusted to 4.5V.
+  Except the Arduino Nano who should be power by 6V to 12V, all electronic on this schematics can be powered by 3.5 to 5V. 
+  So power from the battery pack could be between 6V to 12V : Arduino Nano will be power directly from the battery pack.
+  The rest should be power by a step down DC-DC buck converter ajusted to 4.5V.
 
   Resistors and capacitors :
 
