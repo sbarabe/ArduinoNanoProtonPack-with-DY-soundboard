@@ -8,6 +8,7 @@ First I'm French speaking and doing my best to put this in English here, so sorr
 I'm in the process of building 4 proton packs for my sons. Since I have multiple packs to made, I want to cut on prices and choose some most affordable components.  
 This design is greatly inspired form https://github.com/CountDeMonet/ArduinoProtonPack, but with cheaper audio board (DY-SV8F in my case) for sounds and shift register (MAX7219) for the BAR GRAPH. I also add 2 push buttons in the front wand adjuster to set volume. Those are the biggest changes made from the original design. I had to rewrite almost all the program because it took too much memory for a Arduino Nano (I did got warning from IDE after just making change to use DY board and MAX7219), and also because the DY-SV8F was sensible to multiple play calls and have some delay before a call end the actual state of the board causing some bugs in the sequences. 
 
+
 3D MODELS :
 
 3d models for pack and wand are inpired from the 83% are base on the original references, but I have remake almost all the files and optimised them for my CR10s pro V2 with a 310 by 310mm bed. I'll publish the files when they are ready. For now you can use any adapeted 3d printed refrence models from the original design by https://github.com/CountDeMonet/ArduinoProtonPack :
@@ -22,11 +23,13 @@ SCHEMATICS :
 
 PLEASE TAKE NOTES : I've provided Fritzing schematics for reference. Since I'm not an electronic designer, they migth be some error in components sizes, selections and locations. It's up to you to use those schematics as they are with or without corrections. I've build my prototype with those schematics, but it's not fully tested yet... Also, there is no circuit protection on those schematics, so it's something that can be improve there!
 
+
   Charging circuit :
 
   The charging circuit must be power by a 5V power supply of at least 1A, like a mobile from a mobile phone charger. Since 1A is enough to operate the charging module, but too low for the pack, there is a switching relay preventing the pack operation while charging. So when the charging module is powered, the relay is also powered and switch the supply to the battery only. When disconnected, the switching relay provides supply to the pack from the battery.
   
   This circuit can be ommited if you want to just plug you're battery pack without charging module.
+
 
   Auto power off circuit :
   
@@ -36,17 +39,19 @@ PLEASE TAKE NOTES : I've provided Fritzing schematics for reference. Since I'm n
   
   If you want to omit this auto power off circuit, just plug the main switch into the step down buck converter and Arduino Vin.
   
+  
   Pack powering :
   
   Except the Arduino Nano who should be power by 6V to 12V, all electronic on this schematics can be powered by 3.5 to 5V. 
   So power from the battery pack could be between 6V to 12V : Arduino Nano will be power directly from the battery pack.
   The rest should be power by a step down DC-DC buck converter ajusted to 4.5V.
 
+
   Resistors and capacitors :
 
-  There are a few capacitors around these circuit to provide voltage surge/drop protection. I'll not explain the sizing here, so it's up to you to use the selected ones, other values, or none.
-
-  There are also few resistors to protect elements from high voltage. I'll nbot explain them either here, so it's up to you to use the selected ones, other values, or none.
+  There are a few capacitors around these circuits to provide voltage surge/drop protection.
+  There are also few resistors to protect elements from high voltage.
+  I'll not explain the sizing here, so it's up to you to use the selected ones, other values, or none.
 
 
 ELECTRONIC PARTS LIST :
