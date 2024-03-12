@@ -5,18 +5,23 @@
 
 ## INTRODUCTION :
 
-So, the SBK-Pack is a Ghostbusters inspired proton pack model and electronics for children. It is about 80% sized of a regular pack and it includes motherboard and backpack structure. It is not screen accurate, but close enough. Screen accuracy have been traded for:
+The SBK-Pack is a Ghostbusters inspired proton pack model and electronics for children. It is about 80% regular pack sized, and it includes motherboard and backpack structure. It is not screen accurate, but close enough. Screen accuracy have been traded for:
 * Mostly all 3D printed parts.
 * Low costs sourcing.
 * Easy assembling.
 * Easy finishing.
 * Practical and functional.
 
-Kids do not really care if it is 100% screen accurate or sanded finished, but they do care that it is sturdy, great looking, noisy, and flashy.
-
 As it is said before, it is a kid size model, if you are looking for an adult size screen accurate proton pack, this great model might be your way to go: https://github.com/mr-kiou/q-pack
 
 This is a work in progress, schematics and code updates should be expected.
+
+## SUPPORT MY WORK
+
+If you use and like my work, please support me to help me keep this project up to date : paypal.me/sbarab
+You wouldn't believe how much work it is to make this kind of project available, well mounted and up to date !
+
+Thank you !!!
 
 ## HISTORY:
 
@@ -65,6 +70,8 @@ There are a few non printed esthetics parts to complete the pack assembly:
 - Straps (backpack rack)
 - Shoulder straps (backpack rack)
 - Pipe foam (backpack rack)
+
+The full part and sourcing list will be soon available with the assembly guide.
 
 ### Assembly
 
