@@ -14,6 +14,8 @@ So the SBK-Pack is a Ghostbusters inspired proton pack model and electronics for
 
 Kids don't really care if it's 100% screen accurate or sanded finished, but they do care that it's is sturdy, great looking, noisy and flashy.
 
+As it's said, it's a kid size model, if your looking for an adult size screen accurate proton pack, this great model migth be your wat to go : https://github.com/mr-kiou/q-pack
+
 
 
 HISTORY :
