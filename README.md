@@ -9,7 +9,7 @@ So, the SBK-Pack is a Ghostbusters inspired proton pack model and electronics fo
 * Mostly all 3D printed parts.
 * Low costs sourcing.
 * Easy assembling.
-* Easy finishing: just primer and paints for an acceptable good looking proton pack, but you could always put putty and sand those parts if it is what you like.
+* Easy finishing.
 * Practical and functional.
 
 Kids do not really care if it is 100% screen accurate or sanded finished, but they do care that it is sturdy, great looking, noisy, and flashy.
@@ -26,8 +26,6 @@ I was looking to build a few kids size Ghostbuster proton pack for my children, 
 
 The SBK-Pack is about 80% sized. It is not a downsize model, all parts have been redesigned to achieve easy printing, assembling, and finishing.
 
-Parts are not hollow if there is no need to it (like electronic needs). Solid parts are easier to print and less prone to artifacts and warping. It doesn't require more filament to print them as a solid if infill isen't too intensive. Three walls thickness with a 0.4mm nozzle should be ok for side wall.
-
 There are two models available here, an GB1/GB2 inspired model, and a Frozen Empire model. Someone might want to mix botch and create an Afterlife model...
 
 The models are not 100% screen accurate, and they are inspired from the movies and others available 3D models like those:
@@ -40,6 +38,12 @@ The models are not 100% screen accurate, and they are inspired from the movies a
 ### 3D printer size required
 
 Most of the parts can be printed on a medium sized bed, like Prusa Mk3 or Ender3 printer, but the synchronous generator requires for now a 300x300 printer bed. A split part should be produced for it eventually...
+
+### Printer/Slicer setup
+
+Parts are not hollow if there is no need to it (like electronic needs). Solid parts are easier to print and less prone to artifacts and warping. It doesn't require more filament to print them as a solid if infill isen't too intensive. Three walls thickness with a 0.4mm nozzle should be ok for side wall. 
+
+For better surface finish, and less finishing work, variable layers heights should be used if you master it. 
 
 ### Material
 
@@ -64,9 +68,13 @@ There are a few non printed esthetics parts to complete the pack assembly:
 
 ### Assembly
 
-  Model assembly is made with glue, screws, bolts, and nuts. Except for part you wish to be movable, fast acting epoxy glue in combination with screws are recommended for assembling parts together.
+Model assembly is made with glue, screws, bolts, and nuts. Except for part you wish to be movable, fast acting epoxy glue in combination with screws are recommended for assembling parts together.
 
-  A full assembly guide should be available shortly.
+A full assembly guide should be available shortly.
+
+### Finishing
+
+If parts printed with variable layers heights and/or thins layers, primer and paints should be OK for an acceptable good looking proton pack. But if you want to push it, you could always use putty and sanding on all parts for a perfect finish. It is all up to you!
 
 ## ELECTRONICS:
 
