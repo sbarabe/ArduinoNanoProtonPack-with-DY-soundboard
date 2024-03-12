@@ -1,12 +1,26 @@
 # SBK-Pack Ghosbusters Proton Pack for Kids, Arduino based electronics
-Arduino Code for a Ghostbusters Neutrino Wand and Proton Pack
 
-(Design inspired from https://github.com/CountDeMonet/ArduinoProtonPack)
+INTRODUCTION :
 
-First I'm French speaking and doing my best to put this in English here, so sorry if sometime my sentences look strange or if there is big faulty things around this repository...
+First I'm French speaking and doing my best to put this in English here, so sorry if sometime my sentences look strange or if there is big faulty things around this repository... If you spooky things I should correct, please let me know !
 
-I'm in the process of building 4 proton packs for my sons. Since I have multiple packs to made, I want to cut on prices and choose some most affordable components.  
-This design is greatly inspired form https://github.com/CountDeMonet/ArduinoProtonPack, but with cheaper audio board (DY-SV8F in my case) for sounds and shift register (MAX7219) for the BAR GRAPH. I have also added 2 push buttons in the front wand adjuster to set volume. Those are the biggest changes made from the original design. I had to rewrite almost all the program because it took too much memory for a Arduino Nano (I did got warning from IDE after just making change to use DY board and MAX7219), and also because the DY-SV8F was sensible to multiple play calls and have some delay before a call end the actual state of the board causing some bugs in the sequences. 
+So the SBK-Pack is a Ghostbusters inspired proton pack model and electronics for children. It's about 80% sized of a regular pack and it includs motherboard and backpack structure. It's not screen accurate, but close enough. Screen accuracy have been trade for :
+* Mostly all 3D printed parts ;
+* Low costs sourcing ;
+* Easy assembling ;
+* Easy finishing : just primer and paints for an acceptable good looking proton pack, but you could always put putty and sand those parts if it's what you like;
+* Practical and functionnal.
+Kids don't really care if it's 100% screen accurate or sanded finished, but they do care that it's is sturdy, great looking, noisy and flashy.
+
+
+HISTORY :
+
+I was looking to build a few kids size Ghostbuster proton pack for my children and I found it hard to source and produce for a relative low budget. Then I found CountDeMonet 3D model on Thingiverse and his tutorial/repository, it help me a lot but I wanted to push it further. So the design here is inspired from the great work made here : Design inspired from https://github.com/CountDeMonet/ArduinoProtonPack.
+
+This design is greatly inspired form https://github.com/CountDeMonet/ArduinoProtonPack, but with cheaper audio board (DY-SV8F in my case) for sounds and shift register (MAX7219) for the BAR GRAPH. I have also added 2 push buttons in the front wand adjuster to set volume. Those are the biggest changes made from the original design. I had to rewrite almost all the program because it took too much memory for a Arduino Nano (I did got warning from IDE after just making change to use DY board and MAX7219), and also because the DY-SV8F was sensible to multiple play calls and have some delay before a call end the actual state of the board causing some bugs in the sequences.
+
+
+ 
   
   
 3D MODELS :
