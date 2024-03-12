@@ -10,6 +10,7 @@ So the SBK-Pack is a Ghostbusters inspired proton pack model and electronics for
 * Easy assembling ;
 * Easy finishing : just primer and paints for an acceptable good looking proton pack, but you could always put putty and sand those parts if it's what you like;
 * Practical and functionnal.
+
 Kids don't really care if it's 100% screen accurate or sanded finished, but they do care that it's is sturdy, great looking, noisy and flashy.
 
 
