@@ -40,6 +40,8 @@ The models are not 100% screen accurate, and they are inspired from the movies a
 * Full scale proton wand the 83% one is based on: https://www.thingiverse.com/thing:2334883
 * And a clippard valve with text: https://www.thingiverse.com/thing:2286284
 * Q-pack full size complete models: https://github.com/mr-kiou/q-pack
+
+Also, models are using 3/4 inche electrical PVC pipe for Injectors tube, wand handles and backpack rack. It is quiet cheap, easy to work and sturdy. Adaptation for European PVC pipe are not made yet since no request yet and I don't know if there is an equivalent to it.
   
 ### 3D printer size required
 
