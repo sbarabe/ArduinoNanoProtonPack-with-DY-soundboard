@@ -1,5 +1,6 @@
 # SBK-Pack Ghosbusters Proton Pack for Kids, Arduino based electronics
 
+
 INTRODUCTION :
 
 First I'm French speaking and doing my best to put this in English here, so sorry if sometime my sentences look strange or if there is big faulty things around this repository... If you found spooky things I should correct, please let me know !
@@ -14,24 +15,28 @@ So the SBK-Pack is a Ghostbusters inspired proton pack model and electronics for
 Kids don't really care if it's 100% screen accurate or sanded finished, but they do care that it's is sturdy, great looking, noisy and flashy.
 
 
+
 HISTORY :
 
 I was looking to build a few kids size Ghostbuster proton pack for my children and I found it hard to source and produce for a relative low budget. Then I found CountDeMonet 3D model on Thingiverse and his tutorial/repository, it help me a lot but I wanted to push it further. So the design here is inspired from the great work made here : Design inspired from https://github.com/CountDeMonet/ArduinoProtonPack.
 
-This design is greatly inspired form https://github.com/CountDeMonet/ArduinoProtonPack, but with cheaper audio board (DY-SV8F in my case) for sounds and shift register (MAX7219) for the BAR GRAPH. I have also added 2 push buttons in the front wand adjuster to set volume. Those are the biggest changes made from the original design. I had to rewrite almost all the program because it took too much memory for a Arduino Nano (I did got warning from IDE after just making change to use DY board and MAX7219), and also because the DY-SV8F was sensible to multiple play calls and have some delay before a call end the actual state of the board causing some bugs in the sequences.
-
-
  
-  
   
 3D MODELS :
 
-3d models for pack and wand are inspired from the 83% are base on the original references, but I have remake almost all the files and optimised them for my CR10s pro V2 with a 310 by 310mm bed. I'll publish the files when they are ready. For now you can use any adapeted 3d printed refrence models from the original design by https://github.com/CountDeMonet/ArduinoProtonPack :
-The models are based off the following things on thingiverse: 
+The SBK-Pack is about 80% sized, I say about because it's not a downsize model, but all the part have been redesign to achieve easy printing, assembling and finishing.
+
+The models are not 100% screen accurate and they are inspired from the movies and others available 3D models like those :
 * Main base model for the pack: https://www.thingiverse.com/thing:2479141
 * Base model for the proton wand: https://www.thingiverse.com/thing:1128019
 * Full scale proton wand the 83% one is based on: https://www.thingiverse.com/thing:2334883
 * And a clippard valve with text: https://www.thingiverse.com/thing:2286284
+  
+There is 2 models available, an GB1/GB2 inspired model, and a Frozen Empire model. Someone migth want to mix botch and create an Afterlife model...
+
+Most of the parts can be printed on a medium sized bed, like Prusa Mk3 or Ender3 printer, but the synchronous generator require for now a 300x300 printer bed. A split part should be produce for it eventually...
+but I have remake almost all the files and optimised them for my CR10s pro V2 with a 310 by 310mm bed. 
+
   
   
 SCHEMATICS :
@@ -67,7 +72,12 @@ PLEASE TAKE NOTES : I've provided Fritzing schematics for reference. Since I'm n
   There are a few capacitors around these circuits to provide voltage surge/drop protection.
   There are also few resistors to protect elements from high voltage.
   I'll not explain the sizing here, so it's up to you to use the selected ones, other values, or none.
-  
+
+
+  CODE
+
+  This design is greatly inspired form https://github.com/CountDeMonet/ArduinoProtonPack, but with cheaper audio board (DY-SV8F in my case) for sounds and shift register (MAX7219) for the BAR GRAPH. I have also added 2 push buttons in the front wand adjuster to set volume. Those are the biggest changes made from the original design. I had to rewrite almost all the program because it took too much memory for a Arduino Nano (I did got warning from IDE after just making change to use DY board and MAX7219), and also because the DY-SV8F was sensible to multiple play calls and have some delay before a call end the actual state of the board causing some bugs in the sequences.
+
   
 ELECTRONIC PARTS LIST :
 
