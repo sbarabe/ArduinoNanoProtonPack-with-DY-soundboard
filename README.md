@@ -71,7 +71,7 @@ There are a few non printed esthetics parts to complete the pack assembly:
 
 There are special designed PCBs and part to fit these models beautifully. They save a lot of time and surely fits the space. They should be available soon.
 
-But you could also make your own circuit base on the following schematic.
+But you could also make your own circuit based on the following schematic.
   
 ### Schematics
 
