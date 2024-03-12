@@ -57,6 +57,7 @@ There are a few non printed esthetics parts to complete the pack assembly:
 - Clear rectangular lens (wand body grid)
 - Clear rectangular blue lens (PowerCell)
 - Round pop-up lens (wand light indicators)
+- Wood rod (ion arm rod) 
 - Straps (backpack rack)
 - Shoulder straps (backpack rack)
 - Pipe foam (backpack rack)
