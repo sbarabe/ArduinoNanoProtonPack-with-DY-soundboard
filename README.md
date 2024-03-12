@@ -2,7 +2,7 @@
 
 INTRODUCTION :
 
-First I'm French speaking and doing my best to put this in English here, so sorry if sometime my sentences look strange or if there is big faulty things around this repository... If you spooky things I should correct, please let me know !
+First I'm French speaking and doing my best to put this in English here, so sorry if sometime my sentences look strange or if there is big faulty things around this repository... If you found spooky things I should correct, please let me know !
 
 So the SBK-Pack is a Ghostbusters inspired proton pack model and electronics for children. It's about 80% sized of a regular pack and it includs motherboard and backpack structure. It's not screen accurate, but close enough. Screen accuracy have been trade for :
 * Mostly all 3D printed parts ;
