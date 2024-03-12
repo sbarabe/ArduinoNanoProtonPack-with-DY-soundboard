@@ -18,14 +18,15 @@ This is a work in progress, schematics and code updates should be expected.
 
 ## SUPPORT MY WORK
 
-If you use and like my work, please support me to help me keep this project up to date : paypal.me/sbarab
+If you use and like my work, please support me to help me keep this project up to date : [paypal.me/sbarab](https://www.paypal.com/paypalme/sbarab)
+
 You wouldn't believe how much work it is to make this kind of project available, well mounted and up to date !
 
 Thank you !!!
 
 ## HISTORY:
 
-I was looking to build a few kids size Ghostbuster proton pack for my children, and I found it hard to source and produce for a relative low budget. Then I found CountDeMonet 3D model on Thingiverse and his tutorial/repository, it helps me a lot, but I wanted to push it further. So, the SBK-Pack is initially inspired from the great work by https://github.com/CountDeMonet/ArduinoProtonPack.
+I was looking to build a few kids size Ghostbuster proton pack for my children, and I found it hard to source and produce for a relative low budget. Then I found CountDeMonet 3D model on Thingiverse and his tutorial/repository, it helps me a lot, but I wanted to push it further. So, the SBK-Pack is initially inspired from the great work of CountDeMonet that you can find here : https://github.com/CountDeMonet/ArduinoProtonPack.
   
 ## 3D MODELS:
 
