@@ -1,4 +1,4 @@
-# Arduino Nano with DY soundboard Based Ghostbusters Proton Pack
+# SBK-Pack Ghosbusters Proton Pack for Kids, Arduino based electronics
 Arduino Code for a Ghostbusters Neutrino Wand and Proton Pack
 
 (Design inspired from https://github.com/CountDeMonet/ArduinoProtonPack)
