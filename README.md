@@ -5,8 +5,6 @@
 
 ## INTRODUCTION :
 
-First, I am French speaking and doing my best to put this in English here, so sorry if sometime my sentences look strange or if there are big faulty things around this repository... If you found spooky things I should correct, please let me know!
-
 So, the SBK-Pack is a Ghostbusters inspired proton pack model and electronics for children. It is about 80% sized of a regular pack and it includes motherboard and backpack structure. It is not screen accurate, but close enough. Screen accuracy have been traded for:
 * Mostly all 3D printed parts.
 * Low costs sourcing.
@@ -26,7 +24,9 @@ I was looking to build a few kids size Ghostbuster proton pack for my children, 
   
 ## 3D MODELS:
 
-The SBK-Pack is about 80% sized, I say about because it is not a downsize model, but all parts have been redesigned to achieve easy printing, assembling, and finishing.
+The SBK-Pack is about 80% sized. It is not a downsize model, all parts have been redesigned to achieve easy printing, assembling, and finishing.
+
+Parts are not hollow if there is no need to it (like electronic needs). Solid parts are easier to print and less prone to artifacts and warping. It doesn't require more filament to print them as a solid if infill isen't too intensive. Three walls thickness with a 0.4mm nozzle should be ok for side wall.
 
 There are two models available here, an GB1/GB2 inspired model, and a Frozen Empire model. Someone might want to mix botch and create an Afterlife model...
 
